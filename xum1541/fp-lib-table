@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "Arduino_Pro_Micro")(type "KiCad")(uri "${KIPRJMOD}/Arduino_Pro_Micro.pretty")(options "")(descr ""))
+  (lib (name "DIN_45322")(type "KiCad")(uri "${KIPRJMOD}/DIN_45322.pretty")(options "")(descr ""))
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD/../common/BeaupreCircuitDesign.pretty")(options "")(descr ""))
+  (lib (name "Creative_Common")(type "KiCad")(uri "${KIPRJMOD/../common/Creative_Common.pretty")(options "")(descr ""))
+)

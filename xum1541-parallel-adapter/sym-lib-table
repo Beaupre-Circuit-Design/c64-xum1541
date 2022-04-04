@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "C64_User_Port")(type "KiCad")(uri "${KIPRJMOD}/C64-User-Port.pretty/C64_User_Port.kicad_sym")(options "")(descr ""))
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD}/../common/BeaupreCircuitDesign.pretty/BeaupreCircuitDesign.kicad_sym")(options "")(descr ""))
+  (lib (name "CreativeCommons")(type "KiCad")(uri "${KIPRJMOD}/../common/Creative_Common.pretty/CreativeCommons.kicad_sym")(options "")(descr ""))
+)

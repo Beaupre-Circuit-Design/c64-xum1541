@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "MOS_Technology")(type "KiCad")(uri "${KIPRJMOD}/MOS_Technology.pretty")(options "")(descr ""))
+  (lib (name "BeaupreCircuitDesign")(type "KiCad")(uri "${KIPRJMOD}/../common/BeaupreCircuitDesign.pretty")(options "")(descr ""))
+  (lib (name "Creative_Common")(type "KiCad")(uri "${KIPRJMOD}/../common/Creative_Common.pretty")(options "")(descr ""))
+)
